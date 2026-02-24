@@ -1,0 +1,111 @@
+2026-01-15 17:54:27,472 - INFO - === DÉBUT RAFRAÎCHISSEMENT DW ===
+2026-01-15 17:54:27,472 - INFO - Connexion à PostgreSQL
+2026-01-15 17:54:27,867 - ERROR - Processus terminé avec des erreurs
+2026-01-15 17:58:41,714 - INFO - === DÉBUT RAFRAÎCHISSEMENT DW ===
+2026-01-15 17:58:41,714 - INFO - Connexion à PostgreSQL
+2026-01-15 17:58:41,788 - ERROR - Processus terminé avec des erreurs
+2026-01-15 18:03:23,704 - INFO - === DÉBUT RAFRAÎCHISSEMENT DW ===
+2026-01-15 18:03:23,705 - INFO - Connexion à PostgreSQL
+2026-01-15 18:03:24,101 - INFO - Rafraichissement dim_dates...
+2026-01-15 18:03:24,332 - INFO - Rafraichissement dim_statut
+2026-01-15 18:03:24,399 - INFO - Rafraîchissement dim_clients...
+2026-01-15 18:03:24,602 - INFO - Rafraîchissement dim_produits...
+2026-01-15 18:03:24,695 - INFO - Rafraîchissement fct_commandes...
+2026-01-15 18:03:24,891 - INFO - === RÉSUMÉ ===
+2026-01-15 18:03:24,891 - INFO - - Dates: 0
+2026-01-15 18:03:24,891 - INFO - - Statuts: créés/rafraîchis
+2026-01-15 18:03:24,891 - INFO - - Clients: 0
+2026-01-15 18:03:24,891 - INFO - - Produits: 0
+2026-01-15 18:03:24,891 - INFO - - Commandes: 2
+2026-01-15 18:03:24,893 - INFO - Connexion PostgreSQL fermée
+2026-01-15 18:03:24,893 - INFO - Processus terminé avec succès
+2026-01-15 18:20:38,156 - INFO - === DÉBUT RAFRAÎCHISSEMENT DW ===
+2026-01-15 18:20:38,156 - INFO - Connexion à PostgreSQL
+2026-01-15 18:20:38,198 - INFO - Rafraichissement dim_dates...
+2026-01-15 18:20:38,204 - INFO - Rafraichissement dim_statut
+2026-01-15 18:20:38,208 - INFO - Rafraîchissement dim_clients...
+2026-01-15 18:20:38,213 - INFO - Rafraîchissement dim_produits...
+2026-01-15 18:20:38,217 - INFO - Rafraîchissement fct_commandes...
+2026-01-15 18:20:38,226 - INFO - === RÉSUMÉ ===
+2026-01-15 18:20:38,226 - INFO - - Dates: 0
+2026-01-15 18:20:38,226 - INFO - - Statuts: créés/rafraîchis
+2026-01-15 18:20:38,227 - INFO - - Clients: 0
+2026-01-15 18:20:38,227 - INFO - - Produits: 0
+2026-01-15 18:20:38,227 - INFO - - Commandes: 2
+2026-01-15 18:20:38,229 - INFO - Connexion PostgreSQL fermée
+2026-01-15 18:20:38,229 - INFO - Processus terminé avec succès
+2026-01-15 18:28:19,284 - INFO - === DÉBUT RAFRAÎCHISSEMENT DW ===
+2026-01-15 18:28:19,284 - INFO - Connexion à PostgreSQL
+2026-01-15 18:28:19,432 - INFO - Rafraichissement dim_dates...
+2026-01-15 18:28:19,439 - INFO - Rafraichissement dim_statut
+2026-01-15 18:28:19,444 - INFO - Rafraîchissement dim_clients...
+2026-01-15 18:28:19,451 - INFO - Rafraîchissement dim_produits...
+2026-01-15 18:28:19,456 - INFO - Rafraîchissement fct_commandes...
+2026-01-15 18:28:19,464 - INFO - === RÉSUMÉ ===
+2026-01-15 18:28:19,465 - INFO - - Dates: 0
+2026-01-15 18:28:19,466 - INFO - - Statuts: créés/rafraîchis
+2026-01-15 18:28:19,466 - INFO - - Clients: 0
+2026-01-15 18:28:19,466 - INFO - - Produits: 0
+2026-01-15 18:28:19,467 - INFO - - Commandes: 2
+2026-01-15 18:28:19,470 - INFO - Connexion PostgreSQL fermée
+2026-01-15 18:28:19,470 - INFO - Processus terminé avec succès
+2026-01-16 02:29:30,724 - INFO - === DÉBUT RAFRAÎCHISSEMENT DW ===
+2026-01-16 02:29:30,739 - INFO - Connexion à PostgreSQL
+2026-01-16 02:29:30,890 - INFO - Rafraichissement dim_dates...
+2026-01-16 02:29:30,910 - INFO - Rafraichissement dim_statut
+2026-01-16 02:29:30,931 - INFO - Rafraîchissement dim_clients...
+2026-01-16 02:29:30,969 - INFO - Rafraîchissement dim_produits...
+2026-01-16 02:29:31,003 - INFO - Rafraîchissement fct_commandes...
+2026-01-16 02:29:31,191 - INFO - === RÉSUMÉ ===
+2026-01-16 02:29:31,191 - INFO - - Dates: 0
+2026-01-16 02:29:31,192 - INFO - - Statuts: créés/rafraîchis
+2026-01-16 02:29:31,192 - INFO - - Clients: 0
+2026-01-16 02:29:31,192 - INFO - - Produits: 0
+2026-01-16 02:29:31,193 - INFO - - Commandes: 2
+2026-01-16 02:29:31,197 - INFO - Connexion PostgreSQL fermée
+2026-01-16 02:29:31,197 - INFO - Processus terminé avec succès
+2026-01-17 02:29:35,586 - INFO - === DÉBUT RAFRAÎCHISSEMENT DW ===
+2026-01-17 02:29:35,603 - INFO - Connexion à PostgreSQL
+2026-01-17 02:29:36,164 - INFO - Rafraichissement dim_dates...
+2026-01-17 02:29:37,073 - INFO - Rafraichissement dim_statut
+2026-01-17 02:29:37,325 - INFO - Rafraîchissement dim_clients...
+2026-01-17 02:29:37,461 - INFO - Rafraîchissement dim_produits...
+2026-01-17 02:29:37,599 - INFO - Rafraîchissement fct_commandes...
+2026-01-17 02:29:37,943 - INFO - === RÉSUMÉ ===
+2026-01-17 02:29:37,943 - INFO - - Dates: 0
+2026-01-17 02:29:37,943 - INFO - - Statuts: créés/rafraîchis
+2026-01-17 02:29:37,944 - INFO - - Clients: 0
+2026-01-17 02:29:37,944 - INFO - - Produits: 0
+2026-01-17 02:29:37,944 - INFO - - Commandes: 2
+2026-01-17 02:29:37,945 - INFO - Connexion PostgreSQL fermée
+2026-01-17 02:29:37,945 - INFO - Processus terminé avec succès
+2026-02-08 02:29:39,823 - INFO - === DÉBUT RAFRAÎCHISSEMENT DW ===
+2026-02-08 02:29:39,839 - INFO - Connexion à PostgreSQL
+2026-02-08 02:29:41,698 - INFO - Rafraichissement dim_dates...
+2026-02-08 02:29:42,949 - INFO - Rafraichissement dim_statut
+2026-02-08 02:29:43,195 - INFO - Rafraîchissement dim_clients...
+2026-02-08 02:29:43,328 - INFO - Rafraîchissement dim_produits...
+2026-02-08 02:29:43,458 - INFO - Rafraîchissement fct_commandes...
+2026-02-08 02:29:43,857 - INFO - === RÉSUMÉ ===
+2026-02-08 02:29:43,857 - INFO - - Dates: 0
+2026-02-08 02:29:43,857 - INFO - - Statuts: créés/rafraîchis
+2026-02-08 02:29:43,857 - INFO - - Clients: 0
+2026-02-08 02:29:43,857 - INFO - - Produits: 0
+2026-02-08 02:29:43,857 - INFO - - Commandes: 2
+2026-02-08 02:29:43,858 - INFO - Connexion PostgreSQL fermée
+2026-02-08 02:29:43,858 - INFO - Processus terminé avec succès
+2026-02-20 02:29:36,021 - INFO - === DÉBUT RAFRAÎCHISSEMENT DW ===
+2026-02-20 02:29:36,033 - INFO - Connexion à PostgreSQL
+2026-02-20 02:29:37,501 - INFO - Rafraichissement dim_dates...
+2026-02-20 02:29:38,943 - INFO - Rafraichissement dim_statut
+2026-02-20 02:29:39,189 - INFO - Rafraîchissement dim_clients...
+2026-02-20 02:29:39,346 - INFO - Rafraîchissement dim_produits...
+2026-02-20 02:29:39,482 - INFO - Rafraîchissement fct_commandes...
+2026-02-20 02:29:39,958 - INFO - === RÉSUMÉ ===
+2026-02-20 02:29:39,958 - INFO - - Dates: 0
+2026-02-20 02:29:39,958 - INFO - - Statuts: créés/rafraîchis
+2026-02-20 02:29:39,958 - INFO - - Clients: 0
+2026-02-20 02:29:39,958 - INFO - - Produits: 0
+2026-02-20 02:29:39,958 - INFO - - Commandes: 2
+2026-02-20 02:29:39,960 - INFO - Connexion PostgreSQL fermée
+2026-02-20 02:29:39,960 - INFO - Processus terminé avec succès

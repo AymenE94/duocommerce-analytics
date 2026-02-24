@@ -1,0 +1,13 @@
+#Secrets
+
+.env
+*.env
+config.py
+secrets.py
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
