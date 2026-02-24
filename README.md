@@ -16,7 +16,6 @@ duocommerce-analytics/
 ├── 📄 .env.example             # Template pour les identifiants
 ├── 📄 .gitignore               # Fichiers ignorés
 ├── 📄 README.md                 # Vous êtes ici
-└── 📄 requirements.txt          # Dépendances Python
 ```
 
 ## 🗄️ 1. Automated Data Warehouse (ADW)
