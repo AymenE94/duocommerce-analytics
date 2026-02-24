@@ -3,9 +3,6 @@
 # Script Python pour rafraîchir le DW
 # ============================================
 
-# 1. IMPORTATIONS
-
-
 import psycopg2 
 from psycopg2 import sql
 import logging
