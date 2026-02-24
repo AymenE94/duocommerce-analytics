@@ -15,7 +15,7 @@ duocommerce-analytics/
 │   └── rfm_analysis.py        # Script principal de segmentation
 ├── 📄 .env.example             # Template pour les identifiants
 ├── 📄 .gitignore               # Fichiers ignorés
-├── 📄 README.md                 # Vous êtes ici
+└── 📄 README.md                 # Vous êtes ici
 ```
 
 ## 🗄️ 1. Automated Data Warehouse (ADW)
