@@ -10,6 +10,7 @@ Projet complet d'analyse e-commerce comprenant :
 duocommerce-analytics/
 ├── 📁 adw/                    # Scripts du data warehouse
 │   └── DW.sql                 # Création des tables et dimensions
+│   └── Refresh_DW.py          # Automatisation de l'actualisation des données de la DW
 ├── 📁 rfm/                     # Analyse RFM
 │   └── rfm_analysis.py        # Script principal de segmentation
 ├── 📄 .env.example             # Template pour les identifiants
