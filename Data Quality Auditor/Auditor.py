@@ -1,6 +1,6 @@
 import pandas as pd
 from pydantic import BaseModel, ValidationError
-from ConfigDAC import DatabaseConfig
+from ConfigDQA import DatabaseConfig
 import json
 import warnings
 warnings.filterwarnings('ignore')
