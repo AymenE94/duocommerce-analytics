@@ -15,9 +15,9 @@ duocommerce-analytics/
 ├── 📁 rfm/                         # Analyse RFM
 │   └── rfm_analysis.py             # Script principal de segmentation
 ├── 📁 dqa/                         # Data Quality Auditor
-│   ├── config.py                   # Configuration connexion PostgreSQL
-│   ├── models.py                   # Modèles Pydantic (contrats de données)
-│   ├── auditor.py                  # Moteur d'audit générique
+│   ├── configDQA.py                # Configuration connexion PostgreSQL
+│   ├── Models.py                   # Modèles Pydantic (contrats de données)
+│   ├── Auditor.py                  # Moteur d'audit générique
 │   └── run_audit.py                # Script d'exécution
 ├── 📄 .env.example                 # Template pour les identifiants
 ├── 📄 .gitignore                   # Fichiers ignorés
